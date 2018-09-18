@@ -27,7 +27,7 @@ _Особо стоит упонямуть и систему прохождени
 
 Заболели - да-да, Praktický lékař и записываемся, можно пойти поумирать у него под дверью, если он работает, так как график работы у многих, и моего, в частности, выглядит примерно так:
 
-[doctor]: https://d1ro8r1rbfn3jf.cloudfront.net/ms_108182/9UDoNdoqlooY05EFUY0foPVtUJvRe0/Home%2Bpage%2B-%2BsmartMED%2B-%2BMUDr.%2BJana%2BKle%25C4%258Dkov%25C3%25A1%252C%2Bpraktick%25C3%25BD%2Bl%25C3%25A9ka%25C5%2599%2BPraha%2B3%2B2018-09-18%2B14-11-25.png?Expires=1537359145&Signature=chXwEluN4GH-BuUQnMAKywnUufm15e6pHlUYvhiAzIEScAqIIYMEQcO4yvNuW~x8EHotxvlf-~FnEDBMFeuCT2vJO3IsrOykj-F40ttzAqGmS8RsGqEE01nw0vgpsUaAFghdAmpb-wc0HfUBbyA7AOFK1zlTsQ8px5g6x8XOYMhtlfyM7sjSKWkphBheiYguf~Kr65DPnzat3ZKGKbjMa0zcP82c7EFblg0BpOJ-d2rF6rc1i5v1Lg4ruRoqebVxf7SLa27ySqIVwqakzeCU33bYb~-xVAWAw3wgLIch7p~NEeIRR5yBi0CpXozerKQfc1hRQr~Vp9QR-It-ATf5mg__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA "Такие дела..."
+![doctor](https://d1ro8r1rbfn3jf.cloudfront.net/ms_108182/9UDoNdoqlooY05EFUY0foPVtUJvRe0/Home%2Bpage%2B-%2BsmartMED%2B-%2BMUDr.%2BJana%2BKle%25C4%258Dkov%25C3%25A1%252C%2Bpraktick%25C3%25BD%2Bl%25C3%25A9ka%25C5%2599%2BPraha%2B3%2B2018-09-18%2B14-11-25.png?Expires=1537359145&Signature=chXwEluN4GH-BuUQnMAKywnUufm15e6pHlUYvhiAzIEScAqIIYMEQcO4yvNuW~x8EHotxvlf-~FnEDBMFeuCT2vJO3IsrOykj-F40ttzAqGmS8RsGqEE01nw0vgpsUaAFghdAmpb-wc0HfUBbyA7AOFK1zlTsQ8px5g6x8XOYMhtlfyM7sjSKWkphBheiYguf~Kr65DPnzat3ZKGKbjMa0zcP82c7EFblg0BpOJ-d2rF6rc1i5v1Lg4ruRoqebVxf7SLa27ySqIVwqakzeCU33bYb~-xVAWAw3wgLIch7p~NEeIRR5yBi0CpXozerKQfc1hRQr~Vp9QR-It-ATf5mg__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
 
 В Чехии врач не ходит домой, как это бывает в России, в любом состоянии пациент идет к врачу сам.
 
@@ -36,7 +36,7 @@ _Особо стоит упонямуть и систему прохождени
 Сломал руку - едь на такси. Температура ниже 39 - такси. Здесь бабушки не вызывают СМП, чтоб давление померить. Скорая на дороге - это святое, все валят вбок, как-то раз даже автобус полез на тротуар, чтобы пропустить.
 
 Такое встречается не только в Германии
-[SMP]: https://cs8.pikabu.ru/post_img/big/2017/01/10/7/1484044761143086423.jpg "Такие дела..."
+![SMP](https://cs8.pikabu.ru/post_img/big/2017/01/10/7/1484044761143086423.jpg)
 
 ### Исключения
 
@@ -44,7 +44,7 @@ _Особо стоит упонямуть и систему прохождени
 
 - Дополнительные X дней оплачиваемого отпуска;
 - Несколько оплачиваемых sickday;
-- Карта [multisport](https://multisport.cz/) / [activepass](https://www.activepass.cz/), которые дают скидки или же обеспечивают полностью бесплатное посещение каких-то фитнесс-клубов, спортзалов, бассейнов, музеев и различного рода активностей;
+- Карта [multisport](https://multisport.cz/) / [activepass](https://www.activepass.cz/), которыеÂ дают скидки или же обеспечивают полностью бесплатное посещение каких-то фитнесс-клубов, спортзалов, бассейнов, музеев и различного рода активностей;
 - Рожденственкий бонус / 13ая зарплата;
 - Stravenka или же Meal voucher, обычно в размере 85Kč/день (часто 40-50% номинала платит сотрудник), которыми можно оплачивать чек в ресторане или покупки в магазине. Они не покрывают алкоголь и табачные изделия.
 
